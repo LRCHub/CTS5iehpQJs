@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "やんぐわーるど prod. NEE (Lyric Video) / キタニタツヤ - Young World prod. NEE（feat. NEE）",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2026-02-19T02:11:53.274641Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "やんぐわーるど",
+      "artist": "キタニタツヤ, NEE",
+      "has_synced": false,
+      "path": "select/pl_01_やんぐわーるど_キタニタツヤ,_NEE.txt"
+    }
+  ]
+}
